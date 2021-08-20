@@ -1,6 +1,6 @@
-# Analysis of Airbnb data in Seattle
+# Analysis of airbnb data in Seattle
 
-The analized dataset is part of the Airbnb inside published on the Kaggle Website. It contains prices on available Seattle accomodation between January 4th 2016 and January 2nd 2017 as well as details to all Airbnb-accomodations in Seattle with availability and scraped on January 4th 2016. Furthermore, reviews on the accomodations between June 7th 2009 and January 3rd 2016 are provided.
+The analized dataset is part of the airbnb inside published on the Kaggle Website. It contains prices on available Seattle accommodation between January 4th 2016 and January 2nd 2017 as well as details to all airbnb-accommodations in Seattle with availability and scraped on January 4th 2016. Furthermore, reviews on the accommodations between June 7th 2009 and January 3rd 2016 are provided.
 
 ## Table of contents
 1. [Installation](#installation)
@@ -15,11 +15,11 @@ This project uses the Pandas, Numpy and seaborn library as well as matplotlib fo
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Airbnb Seattle data of 2016 to better understand:
+For this project, I was interestested in using airbnb Seattle data of 2016 to better understand:
 
-1. Which Seattle area is the most popular and most expensive one for travel accomodations? Is price and area correlated?
-2. What factors influence the price of Airbnb accomodations in Seattle?
-3. Has the best area also the best reviews? What factors influence the reviews of Airbnb accomodations in Seattle?
+1. Which Seattle area is the most popular and most expensive one for travel accommodations? Is price and area correlated?
+2. What factors influence the price of airbnb accommodations in Seattle?
+3. Has the best area also the best reviews? What factors influence the reviews of airbnb accommodations in Seattle?
 
 
 ## File Descriptions <a name="files"></a>
@@ -32,4 +32,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data).
+Must give credit to airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data).
