@@ -17,7 +17,7 @@ This project uses the Pandas, Numpy and seaborn library as well as matplotlib fo
 
 For this project, I was interestested in using airbnb Seattle data of 2016 to better understand:
 
-1. Which Seattle area is the most popular and most expensive one for travel accommodations? Is price and area correlated?
+1. Which Seattle area is the most popular for travel accommodations?
 2. What factors influence the price of airbnb accommodations in Seattle?
 3. Has the best area also the best reviews? What factors influence the reviews of airbnb accommodations in Seattle?
 
@@ -28,7 +28,7 @@ The Jupyter notebook with the detailed analysis is available here to showcase wo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available (needs to be updated!) [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
