@@ -28,7 +28,7 @@ The Jupyter notebook with the detailed analysis is available here to showcase wo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available (needs to be updated!) [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@monakeller94/where-do-you-stay-in-seattle-wa-ce71a0b656d1).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
