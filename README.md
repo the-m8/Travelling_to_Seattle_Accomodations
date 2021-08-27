@@ -1,4 +1,4 @@
-# Udacity_Nanodegree_Data-Science
+# Udacity Nanodegree Data Science Repository
 
 Hello and welcome to my repository.
 I am currently enrolled in the Data Science Nanodegree of Udacity. You can find details (e.g. the Syllabus) on the course via this [link](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
