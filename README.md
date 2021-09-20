@@ -15,11 +15,11 @@ This is an analysis of Seattle Airbnb-data with results presented in a medium-bl
 
 ## Project 2: Disaster Response Pipeline <a name="Project_2"></a>
 
--- work in progress --
+This is a webapp build for the classification of Disaster Response messages via a Machine learning algorithm. You can find the details in the [Project-2](https://github.com/the-m8/Udacity_Nanodegree_Data-Science/tree/main/Project_2) folder.
 
 ## Project 3: Recommendation Engines <a name="Project_3"></a>
 
--- not yet started --
+-- work in progress --
 
 ## Project 4: Data Scientist Capstone <a name="Project_4"></a>
 
