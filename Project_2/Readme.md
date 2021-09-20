@@ -28,4 +28,4 @@ Please be aware that it can only be accessed through Udacity courses.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits to figure8 for 
+Credits to [appen](https://appen.com/) (former Figure Eight) for the data and [Udacity](https://www.udacity.com/) for the app code where I made only minor adjustments. 
