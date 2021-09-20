@@ -6,7 +6,7 @@ With the Disaster Response Pipeline, messages regarding disasters gets classifie
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
+4. [Instruction and Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
@@ -21,7 +21,19 @@ With this project I would like to show my Data Science and Data Engineering skil
 
 This projects contains csv files of messages and categories that gets cleaned and tranformed in an ETL Pipeline. The pipeline preparation in Jupyther Notebook as well as the final ETL python pipeline can be found in the folder "data". Second, a Machine Learning pipeline trains and tests on the dataset to select the respective categories after a message input. This machine learning pipeline preparation as well as the final ML python pipeline can be found in the folder "model". Third, a webpage with an application on Disaster Response is provided with the past data and created model underlying. The python code for the webapp is provided in the folder "app".
 
-## Results<a name="results"></a>
+## Instruction and Results<a name="results"></a>
+
+1. Run the following commands in the project's root directory to set up your database and model.
+
+    - To run ETL pipeline that cleans data and stores in database
+        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+    - To run ML pipeline that trains classifier and saves
+        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+
+2. Run the following command in the app's directory to run your web app.
+    `python app/run.py`
+
+3. Go to https://view6914b2f4-3001.udacity-student-workspaces.com/
 
 All results can be found after running the run.py script in the webapp under the following [link] (https://view6914b2f4-3001.udacity-student-workspaces.com/)
 
