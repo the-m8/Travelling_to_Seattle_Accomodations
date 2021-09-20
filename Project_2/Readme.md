@@ -6,7 +6,7 @@ With the Disaster Response Pipeline, messages regarding disasters gets classifie
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Instructions](#instructions)
+4. [Instruction](#instructions)
 5. [Results](#results)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
