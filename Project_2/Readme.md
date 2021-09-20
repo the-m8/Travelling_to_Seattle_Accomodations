@@ -23,7 +23,8 @@ This projects contains csv files of messages and categories that gets cleaned an
 
 ## Results<a name="results"></a>
 
-All results can be found after running the run.py script in the webapp under the following link: 
+All results can be found after running the run.py script in the webapp under the following [link] (https://view6914b2f4-3001.udacity-student-workspaces.com/)
+
 Please be aware that it can only be accessed through Udacity courses.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
