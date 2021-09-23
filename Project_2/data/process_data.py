@@ -48,6 +48,7 @@ def clean_data(df):
     
     for column in categories:
         categories[column] = categories[column].apply(lambda x: re.sub('[^0-9]','', x))
+        categories[column] = categories[column].astype('str').str.replace('2', '1')
         categories[column] = pd.to_numeric(categories[column])
         
     df.drop(columns=['categories'], inplace=True)
