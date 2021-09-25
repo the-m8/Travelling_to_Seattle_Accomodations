@@ -2,6 +2,7 @@ import json
 import plotly
 import pandas as pd
 import sqlite3
+import sklearn
 
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
@@ -9,10 +10,11 @@ from nltk.tokenize import word_tokenize
 from flask import Flask
 from flask import render_template, request, jsonify
 from plotly.graph_objs import Bar
-from sklearn.externals import joblib
+#from sklearn.externals import joblib
+import joblib
 from sqlalchemy import create_engine
 
-
+print(sklearn.__version__)
 app = Flask(__name__)
 
 def tokenize(text):
@@ -43,6 +45,8 @@ def index():
     # TODO: Below is an example - modify to extract data for your own visuals
     genre_counts = df.groupby('genre').count()['message']
     genre_names = list(genre_counts.index)
+    category_counts = df.select_dtypes(include=np.number).sum()
+    category_names = list(df.select_dtypes(include=np.number).columns)
     
     # create visuals
     # TODO: Below is an example - modify to create your own visuals
@@ -62,6 +66,24 @@ def index():
                 },
                 'xaxis': {
                     'title': "Genre"
+                }
+            }
+        },
+        {
+            'data': [
+                Bar(
+                    x=category_names,
+                    y=category_counts
+                )
+            ],
+
+            'layout': {
+                'title': 'Distribution of Message Categorization',
+                'yaxis': {
+                    'title': "Count"
+                },
+                'xaxis': {
+                    'title': "Categories"
                 }
             }
         }
