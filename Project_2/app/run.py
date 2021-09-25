@@ -1,6 +1,7 @@
 import json
 import plotly
 import pandas as pd
+import numpy as np
 import sqlite3
 import sklearn
 
@@ -31,6 +32,7 @@ def tokenize(text):
 # load data
 engine = create_engine('sqlite:///data/DisasterResponse.db')
 df = pd.read_sql_table('messages', engine)
+df.drop(columns=['id'], inplace=True)
 
 # load model
 model = joblib.load("models/classifier.pkl")
