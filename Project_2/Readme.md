@@ -37,6 +37,13 @@ This projects contains csv files of messages and categories that gets cleaned an
 
 Please be aware that it can only be accessed through Udacity courses.
 
+## Results <a name="results"></a>
+
+below you can see some screenshots of my website:
+![image](https://user-images.githubusercontent.com/84857216/134781543-292296af-2bd5-4b54-8f0b-e711cb4de285.png)
+![image](https://user-images.githubusercontent.com/84857216/134781503-ba6c92c6-bec7-40c7-bd1b-d4ca23c2c6f4.png)
+![image](https://user-images.githubusercontent.com/84857216/134781530-85a4e84a-73fc-42c5-be71-2ec3befbb795.png)
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
