@@ -19,8 +19,8 @@ This is a webapp build for the classification of Disaster Response messages via 
 
 ## Project 3: Recommendation Engines <a name="Project_3"></a>
 
--- work in progress --
+This is a recommendation algorithm for user-article interaction of IBM data. I did this project entirely within the Udacity workspace. Therefore, it cannot be found in the repository.
 
 ## Project 4: Data Scientist Capstone <a name="Project_4"></a>
 
--- not yet started --
+-- work in progress --
