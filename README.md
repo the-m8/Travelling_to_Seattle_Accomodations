@@ -23,4 +23,4 @@ This is a recommendation algorithm for user-article interaction of IBM data. I d
 
 ## Project 4: Data Scientist Capstone <a name="Project_4"></a>
 
--- work in progress --
+This project shows a Customer segmentation report where the customers of the Bertelsman/Arvato Group are analyzed with regards to the general population in Germany with the help of unsupervised machine learning techniques. In a second step, further customer aquisition potential will be searched for by supervised machine learning. The final results are distributed via a Medium blogpost. You can find the details in the [Project-4](https://github.com/the-m8/Udacity_Nanodegree_Data-Science/tree/main/Project_4) folder.
