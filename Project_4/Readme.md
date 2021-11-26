@@ -11,11 +11,11 @@ With the Disaster Response Pipeline, messages regarding disasters gets classifie
 
 ## Installation <a name="installation"></a>
 
-This project uses the re, nltk, sqlite3, pickle, sqlalchemie, Pandas, Numpy and some sklearn libraries. The code should run with no issues using Python versions 3.*.
+This project uses Pandas, Numpy, Seaborn, Matplotlib and some sklearn libraries. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-With this project I would like to show my Data Science and Data Engineering skills. Though especially the webpage and model adjustments were tough for me, I was thrilled to use Machine Learning Pipelines for text analysis. Although I might not have used the best model and didn't explore the dataset to every extend, I am looking forward to use Machine Learning in other Use Cases.
+This is my final project in the Udacity Data Science Nanodegree. To proof my Data Science skills and to earn the Data Science Nanodegree certificate, I will provide a customer segmentation report for Bertelsmann/arvato emphasizing the attributes of the customers - especially with regards to the general population in Germany. Furthermore, I will analyze the dataset with Machine Learning Models to find out what kind of people attributes will likely lead to a positive response regarding customer acquisition. 
 
 ## File Descriptions <a name="files"></a>
 
@@ -23,28 +23,13 @@ This projects contains csv files of messages and categories that gets cleaned an
 
 ## Instruction<a name="instructions"></a>
 
-1. Run the following commands in the project's root directory to set up your database and model.
 
-    - To run ETL pipeline that cleans data and stores in database
-        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
-
-2. Run the following command in the app's directory to run your web app.
-    `python app/run.py`
-
-3. Go to https://view6914b2f4-3001.udacity-student-workspaces.com/
-
-Please be aware that it can only be accessed through Udacity courses.
 
 ## Results <a name="results"></a>
 
-below you can see some screenshots of my website:
-![image](https://user-images.githubusercontent.com/84857216/134781543-292296af-2bd5-4b54-8f0b-e711cb4de285.png)
-![image](https://user-images.githubusercontent.com/84857216/134781503-ba6c92c6-bec7-40c7-bd1b-d4ca23c2c6f4.png)
-![image](https://user-images.githubusercontent.com/84857216/134781530-85a4e84a-73fc-42c5-be71-2ec3befbb795.png)
+
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits to [appen](https://appen.com/) (former Figure Eight) for the data and [Udacity](https://www.udacity.com/) for the app code where I made only minor adjustments. 
+Credits to [appen](https://appen.com/) for the data. 
