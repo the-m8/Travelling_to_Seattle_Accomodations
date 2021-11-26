@@ -19,7 +19,7 @@ This is my final project in the Udacity Data Science Nanodegree. To proof my Dat
 
 ## File Descriptions <a name="files"></a>
 
-This projects contains csv files of messages and categories that gets cleaned and tranformed in an ETL Pipeline. The pipeline preparation in Jupyther Notebook as well as the final ETL python pipeline can be found in the folder "data". Second, a Machine Learning pipeline trains and tests on the dataset to select the respective categories after a message input. This machine learning pipeline preparation as well as the final ML python pipeline and the saved model can be found in the folder "model". Third, a webpage with an application on Disaster Response is provided with the past data and created model underlying. The python code for the webapp is provided in the folder "app".
+
 
 ## Instruction<a name="instructions"></a>
 
@@ -27,9 +27,8 @@ This projects contains csv files of messages and categories that gets cleaned an
 
 ## Results <a name="results"></a>
 
-
-
+The results can be found in my [medium blogpost](https://medium.com/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits to [appen](https://appen.com/) for the data. 
+The original data is owned by [Bertelsmann/arvato financial solutions](https://finance.arvato.com/de/). In order to comply with the licensing agreement, I will not publish the original dataset on my Githup Repro but I have uploaded the cleaned, reduced and scaled dataset for the Segmentation Report to follow my Jupyther notebook along.
