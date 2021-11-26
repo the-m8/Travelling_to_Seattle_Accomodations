@@ -6,8 +6,7 @@ With the Disaster Response Pipeline, messages regarding disasters gets classifie
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Instruction](#instructions)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -18,10 +17,6 @@ This project uses Pandas, Numpy, Seaborn, Matplotlib and some sklearn libraries.
 This is my final project in the Udacity Data Science Nanodegree. To proof my Data Science skills and to earn the Data Science Nanodegree certificate, I will provide a customer segmentation report for Bertelsmann/arvato emphasizing the attributes of the customers - especially with regards to the general population in Germany. Furthermore, I will analyze the dataset with Machine Learning Models to find out what kind of people attributes will likely lead to a positive response regarding customer acquisition. 
 
 ## File Descriptions <a name="files"></a>
-
-
-
-## Instruction<a name="instructions"></a>
 
 
 
