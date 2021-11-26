@@ -26,4 +26,4 @@ The results can be found in my [medium blogpost](https://medium.com/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The original data is owned by [Bertelsmann/arvato financial solutions](https://finance.arvato.com/de/). In order to comply with the licensing agreement, I will not publish the original dataset on my Githup Repro but I have uploaded the cleaned, reduced and scaled dataset for the Segmentation Report to follow my Jupyther notebook along.
+The original data is owned by [Bertelsmann/arvato financial solutions](https://finance.arvato.com/de/). In order to comply with the licensing agreement, I will not publish the original dataset on my Githup Repro but it should be availabe to Udacity Data Science Nanodegree students on the [Udacity Website](https://classroom.udacity.com/nanodegrees/nd025/parts/3d3930e1-1e8a-4f51-995f-dab1e5f4da9e/modules/01cc6793-cbeb-4297-8fde-6d53a6be0e29/lessons/278a5c4a-4f0d-440f-ab8a-381ded7e23a1/concepts/f3ce5b83-e21c-4b8f-9e51-214d8e7f6252).
