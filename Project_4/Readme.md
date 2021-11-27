@@ -1,6 +1,6 @@
 # Capstone Project: Segmentation Report for Arvato/Bertelsman
 
-With the Disaster Response Pipeline, messages regarding disasters gets classified by a machine learning pipeline.
+Analysis of mail-out company customers in comparison to the general population of Germany with a supervised ML Algorithm for Response prediction on mail-out campaigns.
 
 ## Table of contents
 1. [Installation](#installation)
@@ -18,11 +18,11 @@ This is my final project in the Udacity Data Science Nanodegree. To proof my Dat
 
 ## File Descriptions <a name="files"></a>
 
-
+There are 2 files provided for the customer segmentation report, one of them containing information about the general population in Germany, the other containing information about the customers of the mail-order company. For the supervised machine learning model, two additional files were provided (training and testing set). The Testing set is basis for the Kaeggle competition. All files are not cleaned and will be cleaned in the process.
 
 ## Results <a name="results"></a>
 
-The results can be found in my [medium blogpost](https://medium.com/).
+The results can be found in my [medium blogpost](https://medium.com/@monakeller94/how-to-describe-customers-and-effectively-acquire-new-ones-from-an-data-science-perspective-a84a3f3a4ade).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
